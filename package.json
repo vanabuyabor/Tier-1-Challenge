@@ -18,10 +18,10 @@
   "keywords": [],
   "author": "",
   "license": "ISC",
-  "bugs": {
-    "url": "https://github.com/w3dotmakinadotnull/express-minimal-app/issues"
-  },
-  "homepage": "https://github.com/vanabuyabor/Tier-1-Challenge/index.js",
+  // "bugs": {
+  //   "url": "https://github.com/w3dotmakinadotnull/express-minimal-app/issues"
+  // },
+  "homepage": "http://vanabuyabor-tier1.apperdevops.com/",
   "dependencies": {
     "cors": "^2.8.5",
     "dotenv": "^8.2.0",
