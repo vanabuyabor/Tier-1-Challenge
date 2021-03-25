@@ -25,7 +25,7 @@ app.use(middlewares.notFound)
 // eslint-disable-next-line no-unused-vars
 app.use(middlewares.errorHandler)
 
-const port = process.env.PORT || 1337
+const port = process.env.PORT || 80
 
 const {
   HOST,
