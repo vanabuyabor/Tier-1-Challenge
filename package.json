@@ -10,15 +10,15 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/w3dotmakinadotnull/express-minimal-app.git"
+    "url": "git+https://github.com/vanabuyabor/Tier-1-Challenge.git"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/w3dotmakinadotnull/express-minimal-app/issues"
+    "url": "https://github.com/vanabuyabor/Tier-1-Challenge.git/issues"
   },
-  "homepage": "https://github.com/w3dotmakinadotnull/express-minimal-app#readme",
+  "homepage": "https://github.com/vanabuyabor/Tier-1-Challenge.git/index.js",
   "dependencies": {
     "cors": "^2.8.5",
     "dotenv": "^8.2.0",
