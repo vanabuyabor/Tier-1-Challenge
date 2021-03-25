@@ -2,26 +2,23 @@
   "name": "express-minimal-app",
   "version": "1.0.0",
   "description": "",
-  "main": "index.js",
-  "engines": {
-    "node": "^7.10.0"
-},
+  "main": "src/index.js",
   "scripts": {
-    "start": "node index.js",
-    "dev": "nodemon index.js",
-    "lint": "eslint"
+    "start": "node src/index.js",
+    "dev": "nodemon src/index.js",
+    "lint": "eslint src/"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/vanabuyabor/Tier-1-Challenge"
+    "url": "git+https://github.com/w3dotmakinadotnull/express-minimal-app.git"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/vanabuyabor/Tier-1-Challenge/issues"
+    "url": "https://github.com/w3dotmakinadotnull/express-minimal-app/issues"
   },
-  "homepage": "http://vanabuyabor-tier1.apperdevops.com/",
+  "homepage": "https://github.com/w3dotmakinadotnull/express-minimal-app#readme",
   "dependencies": {
     "cors": "^2.8.5",
     "dotenv": "^8.2.0",
